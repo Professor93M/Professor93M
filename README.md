@@ -1,6 +1,8 @@
 Hi 👋 My name is Mohammed K Jumaah
 ==================================
 
+https://app.codiga.io/hub/user/github/professor93m/assistant/badges/onboardingDone
+
 Web Developer - Full-stack Developer
 ------------------------------------
 

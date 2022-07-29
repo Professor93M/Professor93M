@@ -4,7 +4,10 @@ Hi 👋 My name is Mohammed K Jumaah
 Web Developer - Full-stack Developer
 ------------------------------------
 
-\- PHP-Laravel - JavaScript - Vuejs - Inertiajs - CSS Frameworks: TailwindCSS / Bootstrap and other Programming languages like: - Python - VB - C++
+\- PHP-Laravel
+- JavaScript - Vuejs - Inertiajs 
+- CSS Frameworks: TailwindCSS / Bootstrap 
+- other Programming languages like: - Python - VBA - C++ - Matlab
 
 * 🌍  I'm based in Iraq - Basra
 * ✉️  You can contact me at [professor404@gmail.com](mailto:professor404@gmail.com)

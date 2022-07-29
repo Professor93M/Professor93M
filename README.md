@@ -4,7 +4,7 @@ Hi 👋 My name is Mohammed K Jumaah
 Web Developer - Full-stack Developer
 ------------------------------------
 
-\- PHP-Laravel
+- PHP-Laravel
 - JavaScript - Vuejs - Inertiajs 
 - CSS Frameworks: TailwindCSS / Bootstrap 
 - other Programming languages like: - Python - VBA - C++ - Matlab
